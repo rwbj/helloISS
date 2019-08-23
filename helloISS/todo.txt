@@ -1,0 +1,31 @@
+To Do List:
+	have you considered using Python?...
+	seudo code and XML!
+	use git
+		find git instal and add to PATH
+			else reinstall and add to PATH
+		link to github using link-key thing (see github)
+		#auto script (bash) to run git upload (like a MakeFile?... :/ )
+	learn how to run sys commands in cpp
+		do they use a custome path registry? (not finding MinGW executables)
+	connect to target url
+		find lib needed
+			"curl"
+	create stream through a free local port
+		review object oriented streaming in cpp
+		find free local port
+			connect to stream
+	pull html
+		find lib
+		pull
+		interprate
+	scrape for lat/long vals
+	compare to local lat/long
+		calc if ISS is in horison (trig using radious and lat/long)
+		#get and use local system's location
+	#set to run on startup
+	#some UI "Hello ISS"
+		#pop-up if closed
+			#learn running in background
+	#next encounter timer
+		#probably use a differant website designed for this

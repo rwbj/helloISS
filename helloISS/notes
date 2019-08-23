@@ -1,0 +1,5 @@
+afx___.h (AKA: MFC) libraries seem to be a proprietary MS resorce requiring a MS VSpro subscription. see: https://stackoverflow.com/questions/16227840/where-can-i-get-afx-h-files
+    solution: look at using WinShok API
+    "If you are set on C++ you would be better served focusing your efforts on learning C++11."
+
+SEE THIS: https://cpp.libhunt.com/simple-web-server-alternatives
